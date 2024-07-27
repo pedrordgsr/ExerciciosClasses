@@ -11,7 +11,6 @@ public class Main {
 		Uno.getCarro();
 		Gol.getCarro();
 		Montana.getCarro();
-	
 
 	}
 
